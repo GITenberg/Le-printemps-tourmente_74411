@@ -1,0 +1,32 @@
+_repo: Le-printemps-tourmente_74411
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Margueritte, Paul
+    birthdate: 1860
+    deathdate: 1918
+    gutenberg_agent_id: '32522'
+    url: http://www.gutenberg.org/2009/agents/32522
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Margueritte
+    - https://fr.wikipedia.org/wiki/Paul_Margueritte
+description: ''
+gutenberg_issued: '2024-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74411'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k80850c
+pgterms:marc905: 20230401234443margueritt
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bFlammarion, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le printemps tourmenté
+url: http://www.gutenberg.org/ebooks/74411
