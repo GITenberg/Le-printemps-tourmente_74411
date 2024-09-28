@@ -1,5 +1,8 @@
 _repo: Le-printemps-tourmente_74411
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74411-h/images/cover.jpg
 creator:
   author:
     agent_name: Margueritte, Paul
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Margueritte
     - https://fr.wikipedia.org/wiki/Paul_Margueritte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74411#Le-printemps-tourmente
 gutenberg_issued: '2024-09-13'
 gutenberg_type: Text
 identifiers:
